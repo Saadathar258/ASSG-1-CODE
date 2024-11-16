@@ -1,0 +1,117 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "..\\..\\AppData\\Local\\Temp\\apk-editor-studio\\apk\\{cd817cd0-b13a-4a9a-9996-cd6a4e94ee61}\\classes.dex"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "fasterxml.jackson",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "google.android.gms",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "samsung.android.emailcommon",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "account",
+      "samsung.android.emailcommon",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "jce",
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "com.android.sec.org.bouncycastle.jce.X509Principal",
+      "jce",
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "spec",
+      "jce",
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "provider",
+      "jce",
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "com.android.sec.org.bouncycastle.jce.PrincipalUtil",
+      "jce",
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ],
+    [
+      "com.android.sec.org.bouncycastle.jce.X509LDAPCertStoreParameters",
+      "jce",
+      "sec.org.bouncycastle",
+      "android",
+      "com",
+      "Source code",
+      "classes.dex"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "C:\\Users\\Hp\\AppData\\Local\\skylot\\jadx\\cache\\projects\\classes-66ff26674b625496f39511ad2c513aae",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
